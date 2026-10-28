@@ -18,3 +18,11 @@ git commit -m "message..."
 
 git push main
 ```
+
+```sh
+# git 로그 명령어
+
+git log
+git log --oneline
+git log --oneline --all
+```
