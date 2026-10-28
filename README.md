@@ -12,3 +12,9 @@ git add -A
 # Commit
 git commit -m "message..."
 ```
+
+```bash
+#push command
+
+git push main
+```
